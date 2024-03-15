@@ -48,6 +48,7 @@ for investors. Understanding and effectively utilizing these instruments
 require a higher level of financial literacy and expertise.
 
 **Expected Solution:**
+
 1] A conversational recommendation model that can handle natural,
 human language input and output. The model should possess some
 basic Natural Language Understanding.
@@ -66,6 +67,7 @@ making predictions, real-time data should be considered.
 
 
 **Bonus Points:**
+
 1] Models with Natural Language Output will be given preference.
 2] Models with no inherent bias whatsoever will be given preference.
 3] Models which are able to minimize the risk in investing, thus minimizing
