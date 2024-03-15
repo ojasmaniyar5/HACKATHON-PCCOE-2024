@@ -1,5 +1,5 @@
 # HACKATHON-PCCOE
-*Describing Project Idea by using various programming languages.*
+*Describing Project Idea on Stock Investment by using various programming languages and API keys.*
 
 **PS ID** : AB05
 
