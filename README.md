@@ -7,6 +7,7 @@
 *Developing a Conversational Recommender System for Stock Investments.*
 
 **Description :**
+
 *In the changing landscape of financial markets, investors face the challenge
 of navigating a vast sea of information to make sound and timely
 investment decisions. The need for a sophisticated, user-friendly solution
