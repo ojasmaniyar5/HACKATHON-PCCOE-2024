@@ -46,40 +46,7 @@ balanced and secure portfolio.
 instruments, such as derivatives and options, adds a layer of complexity
 for investors. Understanding and effectively utilizing these instruments
 require a higher level of financial literacy and expertise.
-
-**Expected Solution:**
-
-1] A conversational recommendation model that can handle natural,
-human language input and output. The model should possess some
-basic Natural Language Understanding.
-2] The model’s responses should be sound and up-to-date.
-3] The UI for the model should be user-friendly and intuitive. It should
-cater to the needs of an everyday investor and provide them with a
-strong recommendation based on the current market situation.
-4] The model should be able to understand the complex constructs about
-the functioning of the market conditions.
-5] The model must not hallucinate.
-6] The model should possess some level of unbiased recommendation.
-7] While we expect you to fine-tune your own LLM, usage of LLM APIs are
-allowed. We encourage your creativity and originality.
-8] Although it is expected that your model learns from historical data, while
-making predictions, real-time data should be considered.
-
-
-**Bonus Points:**
-
-1] Models with Natural Language Output will be given preference.
-2] Models with no inherent bias whatsoever will be given preference.
-3] Models which are able to minimize the risk in investing, thus minimizing
-the overall risk of the portfolio would be given preference.
-4] Models which are able to handle personalized and individualistic biases
-of the user towards a particular investment resource, would be given
-preference.
-5] Models that will be able to simulate market conditions and give a strong,
-accurate opinion about the stock in question, will be given a preference.
-6] An intuitive analytics dashboard that visually presents key performance
-indicators, portfolio metrics, and market trends, would be given a
-preference.
+![Uploading Screenshot (5).png…]()
 
 
 ![image](https://github.com/ojasmaniyar5/HACKATHON-PCCOE/assets/150362990/3e88b4d1-9a9e-4fe7-8fa6-55f7165b1f36)
