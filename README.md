@@ -46,6 +46,7 @@ balanced and secure portfolio.
 instruments, such as derivatives and options, adds a layer of complexity
 for investors. Understanding and effectively utilizing these instruments
 require a higher level of financial literacy and expertise.
+
 ![Uploading Screenshot (5).png…]()
 
 
