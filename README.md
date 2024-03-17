@@ -8,6 +8,12 @@
 
 **For Presentation Visit :** *https://introduction-to-conversa-h44opbd.gamma.site/*
 
+**Programming Languages Used :**
+   - **Fronted End :** HTML, CSS, JavaScript.
+   - **Backed End :** PHP, Python.
+   - **Database :** MySQL.
+   - **API keys :** Taking Reference By Online free API keys.
+
 **Description :**
 
 *In the changing landscape of financial markets, investors face the challenge
