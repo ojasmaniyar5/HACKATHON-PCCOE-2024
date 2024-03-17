@@ -9,9 +9,9 @@
 **For Presentation Visit :** *https://introduction-to-conversa-h44opbd.gamma.site/*
 
 **Programming Languages Used :**
-   - **Fronted End :** HTML, CSS, JavaScript.
-   - **Backed End :** PHP, Python.
-   - **Database :** MySQL.
+   - **Fronted End :** HTML, CSS and JavaScript.
+   - **Backed End :** PHP and Python.
+   - **Database :** MySQL and phpMyAdmin.
    - **API keys :** Taking Reference By Online free API keys.
 
 **Description :**
