@@ -6,6 +6,8 @@
 **Problem Statement :**
 *Developing a Conversational Recommender System for Stock Investments.*
 
+**For Presentation Visit :** *https://introduction-to-conversa-h44opbd.gamma.site/*
+
 **Description :**
 
 *In the changing landscape of financial markets, investors face the challenge
